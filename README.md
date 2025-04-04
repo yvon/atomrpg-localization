@@ -1,12 +1,16 @@
 # ATOM RPG - French Localization
 
+[Cliquez ici pour la version française](README_FR.md)
+
 An alternative French translation for Atom RPG, generated with Anthropic's Claude 3.7 Sonnet AI.
 
 ## About This Project
 
-There's already an official French translation, but it's not very coherent. It's actually two separate projects that were merged without harmonization and without the work being completed. I have a lot of respect for the people who worked on these earlier versions - this is simply an alternative option.
+There's already an official French translation, but it's not very coherent. It's actually two separate projects that were merged without harmonization and without the work being completed.
 
 So I'm offering my version, translated by AI. I haven't had the chance to play much yet, but from what I've seen, it seems better than the official translation. Claude 3.7 Sonnet is an excellent model for this type of work.
+
+I should emphasize that I have a lot of respect for the people who worked on these earlier versions - this is simply an alternative option.
 
 ## Installation
 
